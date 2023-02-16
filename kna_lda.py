@@ -1,5 +1,4 @@
 # Nome: Luan Mendes Gonçalves Freitas
-# Matricula: 15/0015585
 # Disciplina: Fundamentos de Sistemas Inteligentes - Turma A
 # Projeto 1 - Classificadores de Manuscritos
 # Módulo da superclasse algoritmo e das subclasses knn e lda
